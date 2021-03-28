@@ -6,9 +6,9 @@ Metadata is provided as [BibJSON](http://okfnlabs.org/bibjson/).
 ## Structure
 
 ```
-baseurl/                             # soosiana.github.io or custom url
+baseurl/                            # soosiana.github.io or custom url
 
-baseurl/index.json           # lists available volumes
+baseurl/index.json                  # lists available volumes
 
 baseurl/volume-:vol:/               # volume
 baseurl/volume-:vol:/index.json     # lists articles in volume
